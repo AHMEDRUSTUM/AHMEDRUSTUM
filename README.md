@@ -16,7 +16,7 @@
 <!-- GitHub Repolar -->
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
-  <a href="https://camo.githubusercontent.com/00178d5c4fe8a9b7cf30f531447d5bb22d5b9a3d24adf0806e9fc5546cce05e0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d616e617273686168696e3438267468656d653d746f6b796f6e696768745f64756f"></a>
+    <a href="https://github.com/YourGitHubUsername/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=radica" alt="Project2"></a>
   <a href="https://github.com/YourGitHubUsername/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=radical" alt="Project2"></a>
 </p>
 
