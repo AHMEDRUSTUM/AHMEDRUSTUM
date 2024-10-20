@@ -1,17 +1,16 @@
 <!-- Profil Başlığı -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">Hi there 👋, I'm Ahmed</h1>
+<h3 align="center">Mobile App Developer | Flutter @ Etisalat</h3>
 
 <!-- Profil Bilgileri -->
-- 🌱 I’m currently learning **[Insert Technology/Skills]**
-- 👯 I’m looking to collaborate on **[Insert Project or Open Source]**
-- 💬 Ask me about **[Insert Expertise]**
-- 📫 How to reach me: **[Insert Email]**
-- ⚡ Fun fact: **[Insert Fun Fact]**
-
+- 🌱 I’m currently learning at **Fırat University**
+- 🔭 I’m currently studying Flutter and iOS
+- 📫 How to reach me: **ahmedalrustum13@gmail.com**
+- 🤓 Always learning new things
+- 🐼 Doing my best
 <!-- Profil İstatistikleri -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="YourGitHubUsername stats" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" />
 </p>
 
 <!-- GitHub Repolar -->
