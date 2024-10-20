@@ -8,6 +8,13 @@
 - 📫 How to reach me: **ahmedalrustum13@gmail.com**
 - 🤓 Always learning new things
 - 🐼 Doing my best
+  <!-- Bağlantılar -->
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="ahmedalrustum13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+  <a href="https://www.linkedin.com/in/ahmetalrustum/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+</p>
+
   
 <!-- Profil İstatistikleri -->
 <p align="right">g
